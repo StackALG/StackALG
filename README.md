@@ -7,6 +7,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=StackALG&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## How to me:
+## How to reach me:
 - My email address : StackALG@outlook.com
 - My bilibili username : StackALG
